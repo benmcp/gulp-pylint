@@ -24,23 +24,22 @@
   "homepage": "https://github.com/benmcp/gulp-pylint#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.4.0",
     "babel-preset-latest": "^6.24.1",
+    "chai": "^3.5.0",
     "eslint": "^4.8.0",
     "eslint-config-airbnb": "^16.0.0",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
-    "eslint-plugin-react": "^7.4.0"
+    "eslint-plugin-react": "^7.4.0",
+    "gulp": "^3.9.1",
+    "mocha": "^4.0.1",
+    "shelljs": "^0.8.2"
   },
   "dependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
-    "chai": "^3.5.0",
-    "gulp": "^3.9.1",
     "gulp-shell": "^0.6.5",
-    "mocha": "^4.0.1",
-    "object-depth": "^0.0.3",
-    "shelljs": "^0.8.2",
     "through2": "^2.0.3"
   }
 }
