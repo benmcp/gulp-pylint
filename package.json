@@ -17,7 +17,7 @@
     "object"
   ],
   "author": "Ben McPhail",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/benmcp/gulp-pylint/issues"
   },
