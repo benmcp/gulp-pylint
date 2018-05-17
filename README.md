@@ -12,14 +12,13 @@ Install pylint on your machine if you don't already have it. You can get more de
 pip install pylint
 ```
 
-### Installing
+### How to use this
 
-Then add the below to your gulpfile.js file:
+Add the below to your gulpfile:
 
 ```
 import gulp from 'gulp';
-import shell from 'gulp-shell';
-import PyLint from './src/index.js';
+import PyLint from 'gulp-pylint';
 
 gulp.task("pylint", function() {
   gulp.src('test/*.py', {read: true})
@@ -35,4 +34,4 @@ npm test
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
