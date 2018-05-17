@@ -1,6 +1,6 @@
 # Gulp Pylint
 
-A gulp task runner that runs Pylint.
+A gulp task runner for Pylint.
 
 ## Getting Started
 
