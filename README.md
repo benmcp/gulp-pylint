@@ -32,6 +32,11 @@ gulp.task("pylint", function() {
 npm test
 ```
 
+## TODO
+
+- Provide examples
+- Increase the level of customisation
+
 ## License
 
 This project is licensed under the MIT License
