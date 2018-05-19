@@ -1,7 +1,7 @@
 import shell from 'gulp-shell';
 import * as through from 'through2';
 
-module.exports = (opts) => {
+module.exports = (opts = {}) => {
 	if (Object.keys(opts).length === 0) {
 		opts = {
 			quiet: false,
