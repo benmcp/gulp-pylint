@@ -13,8 +13,9 @@
     "url": "git+https://github.com/benmcp/gulp-pylint.git"
   },
   "keywords": [
-    "json",
-    "object"
+    "pylint",
+    "python",
+    "gulp"
   ],
   "author": "Ben McPhail",
   "license": "MIT",
